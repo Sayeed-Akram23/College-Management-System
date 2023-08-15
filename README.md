@@ -24,4 +24,8 @@ The College Management System is a Python-based project that offers a comprehens
 
    ```bash
    git clone <repository_url>
-```
+   ```
+2. Make sure you have Python installed
+3. Install the required dependencies along eith sqlite3
+4. Run the main.py script to start the College Management System:
+
