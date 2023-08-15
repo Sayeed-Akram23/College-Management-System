@@ -28,6 +28,6 @@ The College Management System is a Python-based project that offers a comprehens
     cd College-Management-System
     ```
 3. Make sure you have Python installed
-4. Install the required dependencies along eith sqlite3
+4. Install the required dependencies along with sqlite3
 5. Run the main.py script
 
