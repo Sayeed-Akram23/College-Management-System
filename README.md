@@ -8,8 +8,6 @@ The College Management System is a Python-based project that offers a comprehens
 
 - **User Roles:** The project is divided into distinct modules for administrators, students, and teachers, each implemented in separate files (`admin.py`, `student.py`, `teacher.py`).
 
-- **New Table Creation:** The `new_table_creation.py` script demonstrates the syntax for creating a new table in the SQLite database.
-
 - **Student Module:** The `student.py` module allows addition, retrieval, modification, and deletion of student records. It also provides functionality to calculate student age based on the date of birth.
 
 - **Teacher Module:** The `teacher.py` module facilitates management of teacher information, including employment details and contact information.
@@ -25,7 +23,11 @@ The College Management System is a Python-based project that offers a comprehens
    ```bash
    git clone <repository_url>
    ```
-2. Make sure you have Python installed
-3. Install the required dependencies along eith sqlite3
-4. Run the main.py script to start the College Management System:
+2. Navigate to the directory
+    ```bash
+    cd College-Management-System
+    ```
+3. Make sure you have Python installed
+4. Install the required dependencies along eith sqlite3
+5. Run the main.py script
 
